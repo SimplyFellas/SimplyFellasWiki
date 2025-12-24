@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="Styles/Stylesheet.css">
 
-<a href="https://www.curseforge.com/minecraft/modpacks/simplyfellas">
+<a href="https://wabbanode.com/affiliate/simplyfellas">
     <img src="Banners/SimplyFellas_400x.png" alt="Check out the SimplyFellas modpack!" class="simplyfellas-logo">
 </a>
 
