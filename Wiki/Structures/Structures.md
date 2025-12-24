@@ -41,35 +41,6 @@ Introduces new structures in the Nether, including mansions, graveyards, altars,
 
 <img src="Nether Graveyard.png" alt="Moog's Nether Structures - Nether Graveyard" class="inline-image">
 
-### Structure Gallery
-
-<div class="image-gallery">
-    <div class="gallery-item">
-        <img src="Bridged Tower.png" alt="Bridged Tower">
-        <figcaption>Bridged Tower</figcaption>
-    </div>
-    <div class="gallery-item">
-        <img src="Desert Island.png" alt="Desert Island">
-        <figcaption>Desert Island</figcaption>
-    </div>
-    <div class="gallery-item">
-        <img src="End Pirate Ship.png" alt="End Pirate Ship">
-        <figcaption>End Pirate Ship</figcaption>
-    </div>
-    <div class="gallery-item">
-        <img src="End Structure.png" alt="End Structure">
-        <figcaption>End Structure</figcaption>
-    </div>
-    <div class="gallery-item">
-        <img src="Floating Island.png" alt="Floating Island">
-        <figcaption>Floating Island</figcaption>
-    </div>
-    <div class="gallery-item">
-        <img src="Nether Graveyard.png" alt="Nether Graveyard">
-        <figcaption>Nether Graveyard</figcaption>
-    </div>
-</div>
-
 ---
 
 ## YUNG's Better Structures
@@ -95,6 +66,7 @@ Improves mineshafts with new layouts, better tunnel systems, more variety in roo
 Redesigns strongholds with over 15 new room types, improved tunnels, staircases, traps, and hidden areas. Strongholds are now sprawling underground complexes that provide much more content and exploration value. The enhanced layout makes finding the End Portal a more engaging experience.
 
 <img src="Stronghold.png" alt="YUNG's Better Strongholds" class="inline-image">
+<img src="End Portal.png" alt="YUNG's Better End Portals" class="inline-image">
 
 #### YUNG's Better Desert Temples
 
@@ -126,11 +98,12 @@ Adds naturally generated bridges throughout the Overworld. These bridges connect
 Enhances cave generation with more interesting layouts, better connections, and improved exploration value. Caves become more varied and exciting to explore.
 
 <img src="Cave.png" alt="YUNG's Better Caves" class="inline-image">
-<img src="Ice Cave.png" alt="YUNG's Better Ice Caves" class="inline-image">
 
 #### YUNG's Cave Biomes
 
 Adds cave-specific biomes that make underground exploration more diverse and interesting. Each biome has unique characteristics and visual features.
+
+<img src="Ice Cave.png" alt="YUNG's Better Ice Caves" class="inline-image">
 
 #### YUNG's Extras
 
@@ -154,11 +127,57 @@ Enhances the main End island where you fight the Ender Dragon. The island featur
 
 <img src="End Island.png" alt="YUNG's Better End Island" class="inline-image">
 <img src="End Gateway.png" alt="YUNG's Better End Gateways" class="inline-image">
-<img src="End Portal.png" alt="YUNG's Better End Portals" class="inline-image">
+
+---
+
+## Explorify
+
+Explorify adds various explorable structures to the world that encourage adventure and discovery. These structures are designed to be vanilla-friendly and provide new opportunities for exploration, treasure hunting, and adventure.
+
+### Features
+
+- **New Structures**: Adds a variety of new structures scattered throughout the world
+- **Adventure Focus**: Structures are designed to encourage exploration and reward adventurous players
+- **Vanilla Aesthetic**: All structures fit seamlessly into the vanilla Minecraft aesthetic
+- **Diverse Locations**: Structures can be found in various biomes and locations
+
+Explorify complements the other structure mods by adding even more variety and exploration opportunities to your world. Whether you're exploring new areas or revisiting familiar biomes, you're likely to encounter these new structures that add depth to your adventures.
+
+---
+
+## Structure Mod Integration
+
+These three structure mod systems work together seamlessly to create a rich, diverse world filled with exploration opportunities:
+
+- **Moog's Structures** provides brand new structures to discover
+- **YUNG's Better Structures** enhances familiar structures to be more engaging
+- **Explorify** adds additional explorable structures for more variety
+
+Together, they ensure that exploration remains exciting and rewarding throughout your entire Minecraft journey, from early game to late game, across all three dimensions.
+
+---
 
 ### Structure Gallery
 
 <div class="image-gallery">
+    <div class="gallery-item">
+        <img src="Bridged Tower.png" alt="Bridged Tower">
+    </div>
+    <div class="gallery-item">
+        <img src="Desert Island.png" alt="Desert Island">
+    </div>
+    <div class="gallery-item">
+        <img src="End Pirate Ship.png" alt="End Pirate Ship">
+    </div>
+    <div class="gallery-item">
+        <img src="End Structure.png" alt="End Structure">
+    </div>
+    <div class="gallery-item">
+        <img src="Floating Island.png" alt="Floating Island">
+    </div>
+    <div class="gallery-item">
+        <img src="Nether Graveyard.png" alt="Nether Graveyard">
+    </div>
     <div class="gallery-item">
         <img src="Bridge.png" alt="Bridge">
     </div>
@@ -205,33 +224,6 @@ Enhances the main End island where you fight the Ender Dragon. The island featur
         <img src="Well.png" alt="Well">
     </div>
 </div>
-
----
-
-## Explorify
-
-Explorify adds various explorable structures to the world that encourage adventure and discovery. These structures are designed to be vanilla-friendly and provide new opportunities for exploration, treasure hunting, and adventure.
-
-### Features
-
-- **New Structures**: Adds a variety of new structures scattered throughout the world
-- **Adventure Focus**: Structures are designed to encourage exploration and reward adventurous players
-- **Vanilla Aesthetic**: All structures fit seamlessly into the vanilla Minecraft aesthetic
-- **Diverse Locations**: Structures can be found in various biomes and locations
-
-Explorify complements the other structure mods by adding even more variety and exploration opportunities to your world. Whether you're exploring new areas or revisiting familiar biomes, you're likely to encounter these new structures that add depth to your adventures.
-
----
-
-## Structure Mod Integration
-
-These three structure mod systems work together seamlessly to create a rich, diverse world filled with exploration opportunities:
-
-- **Moog's Structures** provides brand new structures to discover
-- **YUNG's Better Structures** enhances familiar structures to be more engaging
-- **Explorify** adds additional explorable structures for more variety
-
-Together, they ensure that exploration remains exciting and rewarding throughout your entire Minecraft journey, from early game to late game, across all three dimensions.
 
 ---
 

@@ -48,6 +48,10 @@ Speeds up the immediate rendering mode in Minecraft. Optimizes all immediate ren
 
 Colorwheel optimizes Iris shaders with Flywheel (Create's backend mod). Colorwheel Patcher patches various shader packs to work with Flywheel, ensuring shader compatibility with Create mod.
 
+<img src="CreateFPS.png" alt="Create Better FPS" class="inline-image">
+<img src="CreateShaders.png" alt="Create Shaders" class="inline-image">
+<img src="CreateShaders2.png" alt="Create Shaders 2" class="inline-image">
+
 ---
 
 ## Create-Specific Optimizations
@@ -55,10 +59,6 @@ Colorwheel optimizes Iris shaders with Flywheel (Create's backend mod). Colorwhe
 ### Create: Better FPS
 
 This mod improves your FPS with Create while using shader packs. Essential for maintaining performance when using Create mods with shaders enabled.
-
-<img src="CreateFPS.png" alt="Create Better FPS" class="inline-image">
-<img src="CreateShaders.png" alt="Create Shaders" class="inline-image">
-<img src="CreateShaders2.png" alt="Create Shaders 2" class="inline-image">
 
 ### Create: Smart Bounds
 

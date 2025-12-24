@@ -72,11 +72,8 @@ This mod heavily expands upon fishing, offering 60+ new types of fish as well as
 
 This mod adds various new structures and boss mobs. Encounter powerful new bosses and explore unique structures as you adventure through your world.
 
-### Sculptor
-
-Adds new mobs and creatures related to artistic and sculpting themes.
-
 <img src="Sculptor.png" alt="Sculptor" class="inline-image">
+<img src="Bluffs.png" alt="Bluffs" class="inline-image">
 
 ---
 
@@ -87,12 +84,6 @@ Adds new mobs and creatures related to artistic and sculpting themes.
 This mod adds goblin traders you can find underground or in the nether. These unique traders offer interesting items and provide new trading opportunities in unexpected locations!
 
 <img src="GoblinTraders.png" alt="Goblin Traders" class="inline-image">
-
-### Bluffs
-
-Adds new mobs and interactions related to bluffs and terrain features.
-
-<img src="Bluffs.png" alt="Bluffs" class="inline-image">
 
 ---
 

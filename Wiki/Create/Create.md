@@ -25,6 +25,7 @@ Create is THE automation mod that fits the vanilla aesthetic of Minecraft! Craft
 <img src="Create Automation.png" alt="Create Automation" class="inline-image">
 <img src="Trains.png" alt="Create Trains" class="inline-image">
 <img src="Steam Engine.png" alt="Create Steam Engine" class="inline-image">
+<img src="Tree Farm.png" alt="Create Tree Farm" class="inline-image">
 
 ---
 
@@ -161,12 +162,6 @@ Integrates the create materials into the rechiseled mod for even more decorative
 ### Create: Structures Arise
 
 A world generation mod which adds 20 new Create-themed structures including ships, towers, islands, and more!
-
-### Create: Tree Farm
-
-Automated tree farming systems using Create contraptions.
-
-<img src="Tree Farm.png" alt="Create Tree Farm" class="inline-image">
 
 ---
 
