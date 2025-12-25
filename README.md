@@ -73,6 +73,15 @@ Explore the comprehensive SimplyFellas wiki organized by category. Click the lin
 
 ---
 
+<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+        server: '1452128644221767733', // SimplyFellas
+        channel: '1452128645530259631' // #general
+    })
+</script>
+
+---
+
 <img src="Banners/PartnershipBanner.png" alt="Partnership" class="banner-image">
 
 Now officially partnered with Wabbanode! Please use the code **[SMPFELLAS](https://wabbanode.com/affiliate/simplyfellas)** to earn 25% off the Wabbanode hosting service!
