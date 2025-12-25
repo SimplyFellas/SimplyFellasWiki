@@ -52,7 +52,7 @@ SimplyFellas includes extensive backports from newer Minecraft versions, bringin
 
 Explore the comprehensive SimplyFellas wiki organized by category. Click the link below to access the full wiki homepage with all category links:
 
-**[View Full Wiki →](https://github.com/SimplyFellas/SimplyFellasWiki/wiki/Wiki-Homepage)**
+**[**View Full Wiki →**](https://github.com/SimplyFellas/SimplyFellasWiki/wiki/Wiki-Homepage)**
 
 ---
 
