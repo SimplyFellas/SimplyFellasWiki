@@ -66,7 +66,7 @@ Explore the comprehensive SimplyFellas wiki organized by category. Click the lin
 
 [![members](https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1452128644221767733)](https://discord.gg/nVNdu9krp8)
 
-<img src="Banners/DiscordBubble.png" alt="Discord" class="discord-image">
+<img src="Banners/DiscordBanner.png" alt="Discord" class="discord-image">
 
 **[Join the SimplyFellas Discord →](https://discord.gg/nVNdu9krp8)**
 
