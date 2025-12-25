@@ -73,12 +73,13 @@ Explore the comprehensive SimplyFellas wiki organized by category. Click the lin
 
 ---
 
-<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
-    new Crate({
-        server: '1452128644221767733', // SimplyFellas
-        channel: '1452128645530259631' // #general
-    })
-</script>
+<widgetbot
+    server="1452128644221767733"
+    channel="1452128645530259631"
+    width="800"
+    height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 
 ---
 
