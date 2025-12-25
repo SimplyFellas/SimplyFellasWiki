@@ -70,7 +70,6 @@ Explore the comprehensive SimplyFellas wiki organized by category. Click the lin
 * **Modpack Version**: 1.3.4
 * **Modloader**: NeoForge
 * **Mod Count**: ~200 mods
-* **Wiki Last Updated**: 12/24/2025
 
 ---
 
