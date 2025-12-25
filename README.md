@@ -73,10 +73,6 @@ Explore the comprehensive SimplyFellas wiki organized by category. Click the lin
 
 ---
 
-<iframe src="https://discord.com/widget?id=1452128644221767733&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
----
-
 <img src="Banners/PartnershipBanner.png" alt="Partnership" class="banner-image">
 
 Now officially partnered with Wabbanode! Please use the code **[SMPFELLAS](https://wabbanode.com/affiliate/simplyfellas)** to earn 25% off the Wabbanode hosting service!
