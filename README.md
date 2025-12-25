@@ -37,10 +37,10 @@ This project is maintained and updated almost daily for the users of the SimplyF
 
 SimplyFellas includes extensive backports from newer Minecraft versions, bringing you features from future updates:
 
-* **Bundles of Bravery** - New progression systems and challenges
-* **The Garden Awakens** - Extensive gardening and nature content
-* **Spring to Life** - New life-related content and mobs
-* **Chase the Skies** - Sky and air-based content
+* **Bundles of Bravery** - Adds bundles to Minecraft
+* **The Garden Awakens** - Brings an all new biome called the pale garden, as well as a new spooky mob called the creaking
+* **Spring to Life** - Introduces new foilage, more types of mobs, loot changes, and more
+* **Chase the Skies** - Adds Happy Ghasts to minecraft and a player locator bar to find your friends
 * **Copper Age** - Comprehensive copper content and mechanics
 * **Backported Minecart Mechanics** - Enhanced minecart functionality
 * **Backported Enderpearl Mechanics** - Improved enderpearl usage
